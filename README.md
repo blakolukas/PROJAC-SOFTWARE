@@ -1,1 +1,1 @@
-# P-e-A-de-Software
+# Projeto e Arquitetura de Software
